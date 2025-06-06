@@ -1,0 +1,5 @@
+psycopg2-binary
+SQLAlchemy
+pandas
+google-cloud-bigquery
+great_expectations
